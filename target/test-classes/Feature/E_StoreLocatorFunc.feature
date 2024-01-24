@@ -1,4 +1,5 @@
-Feature: FirstCry Website Test
+@firstcry
+Feature: StoreLocator Functionality
   
   Background:
     Given User navigates to the web URL
@@ -17,7 +18,9 @@ Feature: FirstCry Website Test
     And User select the store Type,state and city
     And User click on the search button
     Then User must be able to view the store result
-    #Then User can take screenshot of the storepage
+    
+    
+  
     
     
   

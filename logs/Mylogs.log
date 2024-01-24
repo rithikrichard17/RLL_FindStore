@@ -1,0 +1,697 @@
+[INFO ] 2024-01-21 12:18:28.817 [main] StoreLocatorFuncSteps - User navigates to the web URL
+[INFO ] 2024-01-21 12:18:33.726 [main] StoreLocatorFuncSteps - User must click on the login\/Register
+[INFO ] 2024-01-21 12:18:35.746 [main] StoreLocatorFuncSteps - User Enter the valid emailID
+[INFO ] 2024-01-21 12:18:36.335 [main] StoreLocatorFuncSteps - User clicks on the continue button
+[INFO ] 2024-01-21 12:18:39.872 [main] StoreLocatorFuncSteps - User Enter OTP
+[INFO ] 2024-01-21 12:18:39.874 [main] StoreLocatorFuncSteps - User Clicks on Submit button
+[INFO ] 2024-01-21 12:19:12.246 [main] StoreLocatorFuncSteps - User must be able to view the store result
+[INFO ] 2024-01-21 12:19:12.294 [main] StoreLocatorFuncSteps - User must be able to access HomePage
+[INFO ] 2024-01-21 12:19:12.579 [main] StoreLocatorFuncSteps - User must hover over the stores&preschool
+[INFO ] 2024-01-21 12:19:12.693 [main] StoreLocatorFuncSteps - User must click on the find stores from drop down
+[INFO ] 2024-01-21 12:19:12.879 [main] StoreLocatorFuncSteps - User switches focus to the new tab
+[INFO ] 2024-01-21 12:19:13.057 [main] StoreLocatorFuncSteps - User select the store Type,state and city
+[INFO ] 2024-01-21 12:19:31.126 [main] StoreLocatorFuncSteps - User click on the search button
+[INFO ] 2024-01-21 12:19:31.224 [main] StoreLocatorFuncSteps - User must be able to view the store result
+[INFO ] 2024-01-21 12:22:15.766 [main] StoreLocatorFuncSteps - User navigates to the web URL
+[INFO ] 2024-01-21 12:22:20.425 [main] StoreLocatorFuncSteps - User must click on the login\/Register
+[INFO ] 2024-01-21 12:22:22.348 [main] StoreLocatorFuncSteps - User Enter the valid emailID
+[INFO ] 2024-01-21 12:22:22.823 [main] StoreLocatorFuncSteps - User clicks on the continue button
+[INFO ] 2024-01-21 12:22:26.721 [main] StoreLocatorFuncSteps - User Enter OTP
+[INFO ] 2024-01-21 12:22:26.722 [main] StoreLocatorFuncSteps - User Clicks on Submit button
+[INFO ] 2024-01-21 12:23:00.535 [main] StoreLocatorFuncSteps - User must be able to view the store result
+[INFO ] 2024-01-21 12:23:00.596 [main] StoreLocatorFuncSteps - User must be able to access HomePage
+[INFO ] 2024-01-21 12:23:00.923 [main] StoreLocatorFuncSteps - User must hover over the stores&preschool
+[INFO ] 2024-01-21 12:23:01.025 [main] StoreLocatorFuncSteps - User must click on the find stores from drop down
+[INFO ] 2024-01-21 12:23:01.238 [main] StoreLocatorFuncSteps - User switches focus to the new tab
+[INFO ] 2024-01-21 12:23:01.479 [main] StoreLocatorFuncSteps - User select the store Type,state and city
+[INFO ] 2024-01-21 12:23:19.143 [main] StoreLocatorFuncSteps - User click on the search button
+[INFO ] 2024-01-21 12:23:19.231 [main] StoreLocatorFuncSteps - User must be able to view the store result
+[INFO ] 2024-01-21 12:42:03.802 [main] StoreLocatorFuncSteps - User navigates to the web URL
+[INFO ] 2024-01-21 12:42:07.457 [main] StoreLocatorFuncSteps - User must click on the login\/Register
+[INFO ] 2024-01-21 12:42:09.758 [main] StoreLocatorFuncSteps - User Enter the valid emailID
+[INFO ] 2024-01-21 12:42:10.316 [main] StoreLocatorFuncSteps - User clicks on the continue button
+[INFO ] 2024-01-21 12:42:13.974 [main] StoreLocatorFuncSteps - User Enter OTP
+[INFO ] 2024-01-21 12:42:13.980 [main] StoreLocatorFuncSteps - User Clicks on Submit button
+[INFO ] 2024-01-21 12:42:46.714 [main] StoreLocatorFuncSteps - User must be able to view the store result
+[INFO ] 2024-01-21 12:42:47.332 [main] StoreLocatorFuncSteps - User must be able to access HomePage
+[INFO ] 2024-01-21 12:42:47.347 [main] StoreLocatorFuncSteps - User must hover over the stores&preschool
+[INFO ] 2024-01-21 12:42:47.465 [main] StoreLocatorFuncSteps - User must click on the find stores from drop down
+[INFO ] 2024-01-21 12:42:47.667 [main] StoreLocatorFuncSteps - User switches focus to the new tab
+[INFO ] 2024-01-21 12:42:47.710 [main] StoreLocatorFuncSteps - User select the store Type,state and city
+[INFO ] 2024-01-21 12:43:05.915 [main] StoreLocatorFuncSteps - User click on the search button
+[INFO ] 2024-01-21 12:43:05.998 [main] StoreLocatorFuncSteps - User must be able to view the store result
+[INFO ] 2024-01-21 12:45:13.405 [main] StoreLocatorFuncSteps - User navigates to the web URL
+[INFO ] 2024-01-21 12:45:17.088 [main] StoreLocatorFuncSteps - User must click on the login\/Register
+[INFO ] 2024-01-21 12:45:19.109 [main] StoreLocatorFuncSteps - User Enter the valid emailID
+[INFO ] 2024-01-21 12:45:19.684 [main] StoreLocatorFuncSteps - User clicks on the continue button
+[INFO ] 2024-01-21 12:45:23.127 [main] StoreLocatorFuncSteps - User Enter OTP
+[INFO ] 2024-01-21 12:45:23.129 [main] StoreLocatorFuncSteps - User Clicks on Submit button
+[INFO ] 2024-01-21 12:45:55.370 [main] StoreLocatorFuncSteps - User must be able to view the store result
+[INFO ] 2024-01-21 12:45:55.710 [main] StoreLocatorFuncSteps - User must be able to access HomePage
+[INFO ] 2024-01-21 12:45:55.722 [main] StoreLocatorFuncSteps - User must hover over the stores&preschool
+[INFO ] 2024-01-21 12:45:55.833 [main] StoreLocatorFuncSteps - User must click on the find stores from drop down
+[INFO ] 2024-01-21 12:45:56.025 [main] StoreLocatorFuncSteps - User switches focus to the new tab
+[INFO ] 2024-01-21 12:45:56.279 [main] StoreLocatorFuncSteps - User select the store Type,state and city
+[INFO ] 2024-01-21 12:46:14.128 [main] StoreLocatorFuncSteps - User click on the search button
+[INFO ] 2024-01-21 12:46:14.412 [main] StoreLocatorFuncSteps - User must be able to view the store result
+[INFO ] 2024-01-21 12:50:27.323 [main] StoreLocatorFuncSteps - User navigates to the web URL
+[INFO ] 2024-01-21 12:50:31.038 [main] StoreLocatorFuncSteps - User must click on the login\/Register
+[INFO ] 2024-01-21 12:50:33.143 [main] StoreLocatorFuncSteps - User Enter the valid emailID
+[INFO ] 2024-01-21 12:50:33.683 [main] StoreLocatorFuncSteps - User clicks on the continue button
+[INFO ] 2024-01-21 12:50:37.329 [main] StoreLocatorFuncSteps - User Enter OTP
+[INFO ] 2024-01-21 12:50:37.330 [main] StoreLocatorFuncSteps - User Clicks on Submit button
+[INFO ] 2024-01-21 12:51:09.663 [main] StoreLocatorFuncSteps - User must be able to view the store result
+[INFO ] 2024-01-21 12:51:10.070 [main] StoreLocatorFuncSteps - User must be able to access HomePage
+[INFO ] 2024-01-21 12:51:10.088 [main] StoreLocatorFuncSteps - User must hover over the stores&preschool
+[INFO ] 2024-01-21 12:51:10.209 [main] StoreLocatorFuncSteps - User must click on the find stores from drop down
+[INFO ] 2024-01-21 12:51:10.406 [main] StoreLocatorFuncSteps - User switches focus to the new tab
+[INFO ] 2024-01-21 12:51:10.607 [main] StoreLocatorFuncSteps - User select the store Type,state and city
+[INFO ] 2024-01-21 12:51:28.469 [main] StoreLocatorFuncSteps - User click on the search button
+[INFO ] 2024-01-21 12:51:28.746 [main] StoreLocatorFuncSteps - User must be able to view the store result
+[INFO ] 2024-01-22 21:59:03.171 [main] Add_to_Cart_Steps - ADDTOCART FUNCTIONALITY TEST EXECUTED SUCCESSFULLY
+[INFO ] 2024-01-22 21:59:28.718 [main] Add_to_Cart_Steps - ADDTOCART FUNCTIONALITY TEST EXECUTED SUCCESSFULLY
+[INFO ] 2024-01-22 22:01:03.070 [main] Add_to_Cart_Steps - ADDTOCART FUNCTIONALITY TEST EXECUTED SUCCESSFULLY
+[INFO ] 2024-01-22 22:02:33.100 [main] Add_to_Cart_Steps - ADDTOCART FUNCTIONALITY TEST EXECUTED SUCCESSFULLY
+[INFO ] 2024-01-22 22:21:20.728 [main] loginStepDef - User navigates to the web URL
+[INFO ] 2024-01-22 22:21:31.183 [main] loginStepDef - User click on the Register
+[INFO ] 2024-01-22 22:21:36.394 [main] loginStepDef - User Enter the valid emailID
+[INFO ] 2024-01-22 22:21:38.847 [main] loginStepDef - User clicks on the continue button
+[INFO ] 2024-01-22 22:22:11.217 [main] loginStepDef - User Clicks on Submit button
+[INFO ] 2024-01-22 22:22:11.371 [main] loginStepDef - Validate login is successful
+[INFO ] 2024-01-22 22:22:11.372 [main] loginStepDef - User goto Search button
+[INFO ] 2024-01-22 22:23:02.914 [main] loginStepDef - User navigates to the web URL
+[INFO ] 2024-01-22 22:23:08.861 [main] loginStepDef - User click on the Register
+[INFO ] 2024-01-22 22:23:11.569 [main] loginStepDef - User Enter the valid emailID
+[INFO ] 2024-01-22 22:23:14.176 [main] loginStepDef - User clicks on the continue button
+[INFO ] 2024-01-22 22:23:45.944 [main] loginStepDef - User Clicks on Submit button
+[INFO ] 2024-01-22 22:23:48.437 [main] loginStepDef - Validate login is successful
+[INFO ] 2024-01-22 22:23:48.439 [main] loginStepDef - User goto Search button
+[INFO ] 2024-01-22 22:23:59.479 [main] loginStepDef - User select the product
+[INFO ] 2024-01-22 22:24:02.194 [main] loginStepDef - go to the add to cart button
+[INFO ] 2024-01-22 22:24:05.740 [main] loginStepDef - go to the Go to cart button
+[INFO ] 2024-01-22 22:24:14.659 [main] loginStepDef - increase the Quality of the product
+[INFO ] 2024-01-22 22:24:19.093 [main] loginStepDef - Remove the product from the cart
+[INFO ] 2024-01-22 22:25:37.051 [main] loginStepDef - User navigates to the web URL
+[INFO ] 2024-01-22 22:25:42.653 [main] loginStepDef - User click on the Register
+[INFO ] 2024-01-22 22:25:45.432 [main] loginStepDef - User Enter the valid emailID
+[INFO ] 2024-01-22 22:25:48.076 [main] loginStepDef - User clicks on the continue button
+[INFO ] 2024-01-22 22:26:19.900 [main] loginStepDef - User Clicks on Submit button
+[INFO ] 2024-01-22 22:26:22.435 [main] loginStepDef - Validate login is successful
+[INFO ] 2024-01-22 22:26:22.436 [main] loginStepDef - User goto Search button
+[INFO ] 2024-01-22 22:26:33.704 [main] loginStepDef - User select the product
+[INFO ] 2024-01-22 22:26:36.158 [main] loginStepDef - go to the add to cart button
+[INFO ] 2024-01-22 22:27:43.294 [main] loginStepDef - User navigates to the web URL
+[INFO ] 2024-01-22 22:28:34.664 [main] loginStepDef - User navigates to the web URL
+[INFO ] 2024-01-22 22:28:40.604 [main] loginStepDef - User click on the Register
+[INFO ] 2024-01-22 22:28:43.529 [main] loginStepDef - User Enter the valid emailID
+[INFO ] 2024-01-22 22:28:46.168 [main] loginStepDef - User clicks on the continue button
+[INFO ] 2024-01-22 22:29:17.858 [main] loginStepDef - User Clicks on Submit button
+[INFO ] 2024-01-22 22:29:19.836 [main] loginStepDef - Validate login is successful
+[INFO ] 2024-01-22 22:29:19.837 [main] loginStepDef - User goto Search button
+[INFO ] 2024-01-22 22:30:12.156 [main] loginStepDef - User navigates to the web URL
+[INFO ] 2024-01-22 22:30:14.917 [main] loginStepDef - User click on the Register
+[INFO ] 2024-01-22 22:30:22.025 [main] loginStepDef - User Enter the valid emailID
+[INFO ] 2024-01-22 22:30:24.635 [main] loginStepDef - User clicks on the continue button
+[INFO ] 2024-01-22 22:30:56.313 [main] loginStepDef - User Clicks on Submit button
+[INFO ] 2024-01-22 22:30:58.682 [main] loginStepDef - Validate login is successful
+[INFO ] 2024-01-22 22:30:58.683 [main] loginStepDef - User goto Search button
+[INFO ] 2024-01-22 22:31:09.849 [main] loginStepDef - User select the product
+[INFO ] 2024-01-22 22:31:12.529 [main] loginStepDef - go to the add to cart button
+[INFO ] 2024-01-22 22:32:14.373 [main] loginStepDef - User navigates to the web URL
+[INFO ] 2024-01-22 22:32:19.979 [main] loginStepDef - User click on the Register
+[INFO ] 2024-01-22 22:32:22.803 [main] loginStepDef - User Enter the valid emailID
+[INFO ] 2024-01-22 22:32:25.481 [main] loginStepDef - User clicks on the continue button
+[INFO ] 2024-01-22 22:32:57.165 [main] loginStepDef - User Clicks on Submit button
+[INFO ] 2024-01-22 22:33:01.603 [main] loginStepDef - Validate login is successful
+[INFO ] 2024-01-22 22:33:01.604 [main] loginStepDef - User goto Search button
+[INFO ] 2024-01-22 22:33:13.199 [main] loginStepDef - User select the product
+[INFO ] 2024-01-22 22:33:15.897 [main] loginStepDef - go to the add to cart button
+[INFO ] 2024-01-22 22:33:19.296 [main] loginStepDef - go to the Go to cart button
+[INFO ] 2024-01-22 22:33:28.988 [main] loginStepDef - increase the Quality of the product
+[INFO ] 2024-01-22 22:33:33.763 [main] loginStepDef - Remove the product from the cart
+[INFO ] 2024-01-22 22:47:05.860 [main] loginStepDef - User navigates to the web URL
+[INFO ] 2024-01-22 22:47:13.126 [main] loginStepDef - User click on the Register
+[INFO ] 2024-01-22 22:47:15.765 [main] loginStepDef - User Enter the valid emailID
+[INFO ] 2024-01-22 22:47:18.364 [main] loginStepDef - User clicks on the continue button
+[INFO ] 2024-01-22 22:47:50.098 [main] loginStepDef - User Clicks on Submit button
+[INFO ] 2024-01-22 22:47:54.271 [main] loginStepDef - Validate login is successful
+[INFO ] 2024-01-22 22:47:54.271 [main] loginStepDef - User goto Search button
+[INFO ] 2024-01-22 22:48:05.387 [main] loginStepDef - User select the product
+[INFO ] 2024-01-22 22:48:07.967 [main] loginStepDef - go to the add to cart button
+[INFO ] 2024-01-22 22:49:21.183 [main] loginStepDef - User navigates to the web URL
+[INFO ] 2024-01-22 22:49:27.676 [main] loginStepDef - User click on the Register
+[INFO ] 2024-01-22 22:49:30.608 [main] loginStepDef - User Enter the valid emailID
+[INFO ] 2024-01-22 22:49:33.251 [main] loginStepDef - User clicks on the continue button
+[INFO ] 2024-01-22 22:50:04.819 [main] loginStepDef - User Clicks on Submit button
+[INFO ] 2024-01-22 22:50:07.535 [main] loginStepDef - Validate login is successful
+[INFO ] 2024-01-22 22:50:07.536 [main] loginStepDef - User goto Search button
+[INFO ] 2024-01-22 22:50:18.027 [main] loginStepDef - User select the product
+[INFO ] 2024-01-22 22:50:20.710 [main] loginStepDef - go to the add to cart button
+[INFO ] 2024-01-22 22:50:23.791 [main] loginStepDef - go to the Go to cart button
+[INFO ] 2024-01-22 22:50:32.893 [main] loginStepDef - increase the Quality of the product
+[INFO ] 2024-01-22 22:50:37.269 [main] loginStepDef - Remove the product from the cart
+[INFO ] 2024-01-22 22:55:13.956 [main] loginStepDef - User navigates to the web URL
+[INFO ] 2024-01-22 22:55:20.203 [main] loginStepDef - User click on the Register
+[INFO ] 2024-01-22 22:55:24.298 [main] loginStepDef - User Enter the valid emailID
+[INFO ] 2024-01-22 22:55:27.078 [main] loginStepDef - User clicks on the continue button
+[INFO ] 2024-01-22 22:55:58.753 [main] loginStepDef - User Clicks on Submit button
+[INFO ] 2024-01-22 22:56:01.264 [main] loginStepDef - Validate login is successful
+[INFO ] 2024-01-22 22:56:01.264 [main] loginStepDef - User goto Search button
+[INFO ] 2024-01-22 22:56:12.787 [main] loginStepDef - User select the product
+[INFO ] 2024-01-22 22:56:15.422 [main] loginStepDef - go to the add to cart button
+[INFO ] 2024-01-22 22:56:18.552 [main] loginStepDef - go to the Go to cart button
+[INFO ] 2024-01-22 22:56:28.640 [main] loginStepDef - increase the Quality of the product
+[INFO ] 2024-01-22 22:56:33.022 [main] loginStepDef - Remove the product from the cart
+[INFO ] 2024-01-22 22:58:59.237 [main] loginStepDef - User navigates to the web URL
+[INFO ] 2024-01-22 22:59:05.202 [main] loginStepDef - User click on the Register
+[INFO ] 2024-01-22 22:59:07.742 [main] loginStepDef - User Enter the valid emailID
+[INFO ] 2024-01-22 22:59:10.441 [main] loginStepDef - User clicks on the continue button
+[INFO ] 2024-01-22 22:59:42.110 [main] loginStepDef - User Clicks on Submit button
+[INFO ] 2024-01-22 22:59:44.548 [main] loginStepDef - Validate login is successful
+[INFO ] 2024-01-22 22:59:44.548 [main] loginStepDef - User goto Search button
+[INFO ] 2024-01-22 22:59:54.809 [main] loginStepDef - User select the product
+[INFO ] 2024-01-22 22:59:57.395 [main] loginStepDef - go to the add to cart button
+[INFO ] 2024-01-22 23:00:00.544 [main] loginStepDef - go to the Go to cart button
+[INFO ] 2024-01-22 23:00:09.924 [main] loginStepDef - increase the Quality of the product
+[INFO ] 2024-01-22 23:00:12.353 [main] loginStepDef - Remove the product from the cart
+[INFO ] 2024-01-22 23:04:39.661 [main] loginStepDef - User navigates to the web URL
+[INFO ] 2024-01-22 23:04:46.457 [main] loginStepDef - User click on the Register
+[INFO ] 2024-01-22 23:04:49.045 [main] loginStepDef - User Enter the valid emailID
+[INFO ] 2024-01-22 23:04:51.716 [main] loginStepDef - User clicks on the continue button
+[INFO ] 2024-01-22 23:05:23.208 [main] loginStepDef - User Clicks on Submit button
+[INFO ] 2024-01-22 23:05:25.683 [main] loginStepDef - Validate login is successful
+[INFO ] 2024-01-22 23:05:25.684 [main] loginStepDef - User goto Search button
+[INFO ] 2024-01-22 23:05:36.520 [main] loginStepDef - User select the product
+[INFO ] 2024-01-22 23:05:39.031 [main] loginStepDef - go to the add to cart button
+[INFO ] 2024-01-22 23:05:43.059 [main] loginStepDef - go to the Go to cart button
+[INFO ] 2024-01-22 23:05:58.749 [main] loginStepDef - increase the Quality of the product
+[INFO ] 2024-01-22 23:20:21.752 [main] ShortlistFuncSteps - I am on the login page
+[INFO ] 2024-01-22 23:20:28.327 [main] ShortlistFuncSteps - I log in with valid credentials
+[INFO ] 2024-01-22 23:20:45.344 [main] ShortlistFuncSteps - I shortlist a few products
+[INFO ] 2024-01-22 23:22:26.744 [main] ShortlistFuncSteps - I am on the login page
+[INFO ] 2024-01-22 23:22:33.582 [main] ShortlistFuncSteps - I log in with valid credentials
+[INFO ] 2024-01-22 23:23:13.584 [main] ShortlistFuncSteps - I shortlist a few products
+[INFO ] 2024-01-22 23:23:18.187 [main] ShortlistFuncSteps - I click on the Shortlist button
+[INFO ] 2024-01-22 23:23:32.925 [main] ShortlistFuncSteps - the selected products should be in my Shortlist
+[INFO ] 2024-01-23 10:47:38.336 [main] Add_to_Cart_Steps - ADDTOCART FUNCTIONALITY TEST EXECUTED SUCCESSFULLY
+[INFO ] 2024-01-23 10:47:51.838 [main] ShortlistFuncSteps - I am on the login page
+[INFO ] 2024-01-23 10:48:00.583 [main] ShortlistFuncSteps - I log in with valid credentials
+[INFO ] 2024-01-23 11:01:23.409 [main] Add_to_Cart_Steps - ADDTOCART FUNCTIONALITY TEST EXECUTED SUCCESSFULLY
+[INFO ] 2024-01-23 11:01:44.061 [main] Add_to_Cart_Steps - ADDTOCART FUNCTIONALITY TEST EXECUTED SUCCESSFULLY
+[INFO ] 2024-01-23 11:01:48.515 [main] ShortlistFuncSteps - I am on the login page
+[INFO ] 2024-01-23 11:01:54.509 [main] ShortlistFuncSteps - I log in with valid credentials
+[INFO ] 2024-01-23 11:01:54.518 [main] ShortlistFuncSteps - I shortlist a few products
+[INFO ] 2024-01-23 11:01:58.161 [main] ShortlistFuncSteps - I click on the Shortlist button
+[INFO ] 2024-01-23 11:15:40.256 [main] Add_to_Cart_Steps - ADDTOCART FUNCTIONALITY TEST EXECUTED SUCCESSFULLY
+[INFO ] 2024-01-23 11:16:02.047 [main] Add_to_Cart_Steps - ADDTOCART FUNCTIONALITY TEST EXECUTED SUCCESSFULLY
+[INFO ] 2024-01-23 11:17:10.405 [main] ShortlistFuncSteps - I am on the login page
+[INFO ] 2024-01-23 11:17:16.937 [main] ShortlistFuncSteps - I log in with valid credentials
+[INFO ] 2024-01-23 11:17:16.938 [main] ShortlistFuncSteps - I shortlist a few products
+[INFO ] 2024-01-23 11:17:22.315 [main] ShortlistFuncSteps - I click on the Shortlist button
+[INFO ] 2024-01-23 11:35:57.429 [main] Add_to_Cart_Steps - ADDTOCART FUNCTIONALITY TEST EXECUTED SUCCESSFULLY
+[INFO ] 2024-01-23 11:36:20.796 [main] Add_to_Cart_Steps - ADDTOCART FUNCTIONALITY TEST EXECUTED SUCCESSFULLY
+[INFO ] 2024-01-23 11:37:30.658 [main] ShortlistFuncSteps - I am on the login page
+[INFO ] 2024-01-23 11:41:16.283 [main] ShortlistFuncSteps - I am on the login page
+[INFO ] 2024-01-23 11:41:21.580 [main] ShortlistFuncSteps - I log in with valid credentials
+[INFO ] 2024-01-23 11:41:21.581 [main] ShortlistFuncSteps - I shortlist a few products
+[INFO ] 2024-01-23 11:41:25.073 [main] ShortlistFuncSteps - I click on the Shortlist button
+[INFO ] 2024-01-23 11:43:36.750 [main] StoreLocatorFuncSteps - User navigates to the web URL
+[INFO ] 2024-01-23 11:43:40.088 [main] StoreLocatorFuncSteps - User must click on the login\/Register
+[INFO ] 2024-01-23 11:43:40.089 [main] StoreLocatorFuncSteps - User Enter the valid emailID
+[INFO ] 2024-01-23 11:43:40.089 [main] StoreLocatorFuncSteps - User clicks on the continue button
+[INFO ] 2024-01-23 11:43:42.104 [main] StoreLocatorFuncSteps - User Enter OTP
+[INFO ] 2024-01-23 11:43:42.104 [main] StoreLocatorFuncSteps - User Clicks on Submit button
+[INFO ] 2024-01-23 11:44:12.105 [main] StoreLocatorFuncSteps - User must be able to view the store result
+[INFO ] 2024-01-23 11:44:12.122 [main] StoreLocatorFuncSteps - User must be able to access HomePage
+[INFO ] 2024-01-23 11:44:12.133 [main] StoreLocatorFuncSteps - User must hover over the stores&preschool
+[INFO ] 2024-01-23 11:44:12.238 [main] StoreLocatorFuncSteps - User must click on the find stores from drop down
+[INFO ] 2024-01-23 11:44:12.411 [main] StoreLocatorFuncSteps - User switches focus to the new tab
+[INFO ] 2024-01-23 11:44:12.459 [main] StoreLocatorFuncSteps - User select the store Type,state and city
+[INFO ] 2024-01-23 11:44:30.443 [main] StoreLocatorFuncSteps - User click on the search button
+[INFO ] 2024-01-23 11:44:30.720 [main] StoreLocatorFuncSteps - User must be able to view the store result
+[INFO ] 2024-01-23 11:46:20.247 [main] StoreLocatorFuncSteps - User navigates to the web URL
+[INFO ] 2024-01-23 11:46:24.085 [main] StoreLocatorFuncSteps - User must click on the login\/Register
+[INFO ] 2024-01-23 11:46:24.086 [main] StoreLocatorFuncSteps - User Enter the valid emailID
+[INFO ] 2024-01-23 11:46:24.086 [main] StoreLocatorFuncSteps - User clicks on the continue button
+[INFO ] 2024-01-23 11:46:26.090 [main] StoreLocatorFuncSteps - User Enter OTP
+[INFO ] 2024-01-23 11:46:26.090 [main] StoreLocatorFuncSteps - User Clicks on Submit button
+[INFO ] 2024-01-23 11:46:56.094 [main] StoreLocatorFuncSteps - User must be able to view the store result
+[INFO ] 2024-01-23 11:46:56.115 [main] StoreLocatorFuncSteps - User must be able to access HomePage
+[INFO ] 2024-01-23 11:46:56.125 [main] StoreLocatorFuncSteps - User must hover over the stores&preschool
+[INFO ] 2024-01-23 11:46:56.257 [main] StoreLocatorFuncSteps - User must click on the find stores from drop down
+[INFO ] 2024-01-23 11:46:56.417 [main] StoreLocatorFuncSteps - User switches focus to the new tab
+[INFO ] 2024-01-23 11:46:56.463 [main] StoreLocatorFuncSteps - User select the store Type,state and city
+[INFO ] 2024-01-23 11:47:14.200 [main] StoreLocatorFuncSteps - User click on the search button
+[INFO ] 2024-01-23 11:47:14.495 [main] StoreLocatorFuncSteps - User must be able to view the store result
+[INFO ] 2024-01-23 11:56:31.265 [main] StoreLocatorFuncSteps - User navigates to the web URL
+[INFO ] 2024-01-23 11:56:35.349 [main] StoreLocatorFuncSteps - User must click on the login\/Register
+[INFO ] 2024-01-23 11:56:35.350 [main] StoreLocatorFuncSteps - User Enter the valid emailID
+[INFO ] 2024-01-23 11:56:35.350 [main] StoreLocatorFuncSteps - User clicks on the continue button
+[INFO ] 2024-01-23 11:56:37.365 [main] StoreLocatorFuncSteps - User Enter OTP
+[INFO ] 2024-01-23 11:56:37.365 [main] StoreLocatorFuncSteps - User Clicks on Submit button
+[INFO ] 2024-01-23 11:57:07.379 [main] StoreLocatorFuncSteps - User must be able to view the store result
+[INFO ] 2024-01-23 11:57:07.392 [main] StoreLocatorFuncSteps - User must be able to access HomePage
+[INFO ] 2024-01-23 11:57:07.405 [main] StoreLocatorFuncSteps - User must hover over the stores&preschool
+[INFO ] 2024-01-23 11:57:07.518 [main] StoreLocatorFuncSteps - User must click on the find stores from drop down
+[INFO ] 2024-01-23 11:57:07.670 [main] StoreLocatorFuncSteps - User switches focus to the new tab
+[INFO ] 2024-01-23 11:57:07.761 [main] StoreLocatorFuncSteps - User select the store Type,state and city
+[INFO ] 2024-01-23 11:57:25.605 [main] StoreLocatorFuncSteps - User click on the search button
+[INFO ] 2024-01-23 11:57:25.903 [main] StoreLocatorFuncSteps - User must be able to view the store result
+[INFO ] 2024-01-23 11:59:04.055 [main] StoreLocatorFuncSteps - User navigates to the web URL
+[INFO ] 2024-01-23 11:59:07.749 [main] StoreLocatorFuncSteps - User must click on the login\/Register
+[INFO ] 2024-01-23 11:59:07.750 [main] StoreLocatorFuncSteps - User Enter the valid emailID
+[INFO ] 2024-01-23 11:59:07.750 [main] StoreLocatorFuncSteps - User clicks on the continue button
+[INFO ] 2024-01-23 11:59:09.759 [main] StoreLocatorFuncSteps - User Enter OTP
+[INFO ] 2024-01-23 11:59:09.759 [main] StoreLocatorFuncSteps - User Clicks on Submit button
+[INFO ] 2024-01-23 11:59:39.764 [main] StoreLocatorFuncSteps - User must be able to view the store result
+[INFO ] 2024-01-23 11:59:39.780 [main] StoreLocatorFuncSteps - User must be able to access HomePage
+[INFO ] 2024-01-23 11:59:39.792 [main] StoreLocatorFuncSteps - User must hover over the stores&preschool
+[INFO ] 2024-01-23 11:59:39.894 [main] StoreLocatorFuncSteps - User must click on the find stores from drop down
+[INFO ] 2024-01-23 11:59:40.051 [main] StoreLocatorFuncSteps - User switches focus to the new tab
+[INFO ] 2024-01-23 11:59:40.096 [main] StoreLocatorFuncSteps - User select the store Type,state and city
+[INFO ] 2024-01-23 11:59:58.052 [main] StoreLocatorFuncSteps - User click on the search button
+[INFO ] 2024-01-23 11:59:58.302 [main] StoreLocatorFuncSteps - User must be able to view the store result
+[INFO ] 2024-01-23 12:14:37.926 [main] Add_to_Cart_Steps - ADDTOCART FUNCTIONALITY TEST EXECUTED SUCCESSFULLY
+[INFO ] 2024-01-23 12:15:05.645 [main] Add_to_Cart_Steps - ADDTOCART FUNCTIONALITY TEST EXECUTED SUCCESSFULLY
+[INFO ] 2024-01-23 12:15:14.847 [main] StoreLocatorFuncSteps - User navigates to the web URL
+[INFO ] 2024-01-23 12:15:19.420 [main] StoreLocatorFuncSteps - User must click on the login\/Register
+[INFO ] 2024-01-23 12:15:19.421 [main] StoreLocatorFuncSteps - User Enter the valid emailID
+[INFO ] 2024-01-23 12:15:19.422 [main] StoreLocatorFuncSteps - User clicks on the continue button
+[INFO ] 2024-01-23 12:15:21.445 [main] StoreLocatorFuncSteps - User Enter OTP
+[INFO ] 2024-01-23 12:15:21.447 [main] StoreLocatorFuncSteps - User Clicks on Submit button
+[INFO ] 2024-01-23 12:15:51.457 [main] StoreLocatorFuncSteps - User must be able to view the store result
+[INFO ] 2024-01-23 12:15:51.484 [main] StoreLocatorFuncSteps - User must be able to access HomePage
+[INFO ] 2024-01-23 12:15:51.501 [main] StoreLocatorFuncSteps - User must hover over the stores&preschool
+[INFO ] 2024-01-23 12:15:51.634 [main] StoreLocatorFuncSteps - User must click on the find stores from drop down
+[INFO ] 2024-01-23 12:15:51.857 [main] StoreLocatorFuncSteps - User switches focus to the new tab
+[INFO ] 2024-01-23 12:15:52.065 [main] StoreLocatorFuncSteps - User select the store Type,state and city
+[INFO ] 2024-01-23 12:16:12.107 [main] StoreLocatorFuncSteps - User click on the search button
+[INFO ] 2024-01-23 12:16:12.460 [main] StoreLocatorFuncSteps - User must be able to view the store result
+[INFO ] 2024-01-23 12:17:25.101 [main] ShortlistFuncSteps - I am on the login page
+[INFO ] 2024-01-23 12:17:31.650 [main] ShortlistFuncSteps - I log in with valid credentials
+[INFO ] 2024-01-23 12:18:08.808 [main] ShortlistFuncSteps - I shortlist a few products
+[INFO ] 2024-01-23 12:31:15.573 [main] Add_to_Cart_Steps - ADDTOCART FUNCTIONALITY TEST EXECUTED SUCCESSFULLY
+[INFO ] 2024-01-23 12:31:37.861 [main] Add_to_Cart_Steps - ADDTOCART FUNCTIONALITY TEST EXECUTED SUCCESSFULLY
+[INFO ] 2024-01-23 12:43:22.216 [main] loginStepDef - User navigates to the web URL
+[INFO ] 2024-01-23 12:43:27.619 [main] loginStepDef - User click on the Register
+[INFO ] 2024-01-23 12:43:27.620 [main] loginStepDef - User Enter the valid emailID
+[INFO ] 2024-01-23 12:43:27.620 [main] loginStepDef - User clicks on the continue button
+[INFO ] 2024-01-23 12:43:27.621 [main] loginStepDef - User Clicks on Submit button
+[INFO ] 2024-01-23 12:43:27.622 [main] loginStepDef - Validate login is successful
+[INFO ] 2024-01-23 12:43:27.624 [main] loginStepDef - User goto Search button
+[INFO ] 2024-01-23 12:43:38.369 [main] loginStepDef - User select the product
+[INFO ] 2024-01-23 12:43:41.384 [main] loginStepDef - go to the add to cart button
+[INFO ] 2024-01-23 12:43:44.865 [main] loginStepDef - go to the Go to cart button
+[INFO ] 2024-01-23 12:43:52.609 [main] loginStepDef - increase the Quality of the product
+[INFO ] 2024-01-23 12:44:29.665 [main] ShortlistFuncSteps - I am on the login page
+[INFO ] 2024-01-23 12:47:09.175 [main] ShortlistFuncSteps - I am on the login page
+[INFO ] 2024-01-23 12:50:04.239 [main] ShortlistFuncSteps - I am on the login page
+[INFO ] 2024-01-23 12:50:09.176 [main] ShortlistFuncSteps - I log in with valid credentials
+[INFO ] 2024-01-23 12:50:44.532 [main] ShortlistFuncSteps - I shortlist a few products
+[INFO ] 2024-01-23 12:51:04.219 [main] ShortlistFuncSteps - I am on the login page
+[INFO ] 2024-01-23 12:51:08.767 [main] ShortlistFuncSteps - I log in with valid credentials
+[INFO ] 2024-01-23 12:51:46.249 [main] ShortlistFuncSteps - I shortlist a few products
+[INFO ] 2024-01-23 12:51:49.559 [main] ShortlistFuncSteps - I click on the Shortlist button
+[INFO ] 2024-01-23 12:52:03.632 [main] ShortlistFuncSteps - the selected products should be in my Shortlist
+[INFO ] 2024-01-23 13:30:07.830 [main] StoreLocatorFuncSteps - User navigates to the web URL
+[INFO ] 2024-01-23 13:30:11.831 [main] StoreLocatorFuncSteps - User must click on the login\/Register
+[INFO ] 2024-01-23 13:30:11.831 [main] StoreLocatorFuncSteps - User Enter the valid emailID
+[INFO ] 2024-01-23 13:30:11.832 [main] StoreLocatorFuncSteps - User clicks on the continue button
+[INFO ] 2024-01-23 13:30:13.847 [main] StoreLocatorFuncSteps - User Enter OTP
+[INFO ] 2024-01-23 13:30:13.848 [main] StoreLocatorFuncSteps - User Clicks on Submit button
+[INFO ] 2024-01-23 13:30:43.859 [main] StoreLocatorFuncSteps - User must be able to view the store result
+[INFO ] 2024-01-23 13:30:43.882 [main] StoreLocatorFuncSteps - User must be able to access HomePage
+[INFO ] 2024-01-23 13:30:43.896 [main] StoreLocatorFuncSteps - User must hover over the stores&preschool
+[INFO ] 2024-01-23 13:30:44.041 [main] StoreLocatorFuncSteps - User must click on the find stores from drop down
+[INFO ] 2024-01-23 13:30:44.214 [main] StoreLocatorFuncSteps - User switches focus to the new tab
+[INFO ] 2024-01-23 13:30:44.258 [main] StoreLocatorFuncSteps - User select the store Type,state and city
+[INFO ] 2024-01-23 13:31:02.756 [main] StoreLocatorFuncSteps - User click on the search button
+[INFO ] 2024-01-23 13:31:03.693 [main] StoreLocatorFuncSteps - User must be able to view the store result
+[INFO ] 2024-01-23 13:35:05.734 [main] ShortlistFuncSteps - I am on the login page
+[INFO ] 2024-01-23 13:35:13.546 [main] ShortlistFuncSteps - I log in with valid credentials
+[INFO ] 2024-01-23 13:35:52.672 [main] ShortlistFuncSteps - I shortlist a few products
+[INFO ] 2024-01-23 13:35:57.135 [main] ShortlistFuncSteps - I click on the Shortlist button
+[INFO ] 2024-01-23 13:36:11.481 [main] ShortlistFuncSteps - the selected products should be in my Shortlist
+[INFO ] 2024-01-23 14:33:59.320 [main] StoreLocatorFuncSteps - User navigates to the web URL
+[INFO ] 2024-01-23 14:34:02.944 [main] StoreLocatorFuncSteps - User have valid credentials for login
+[INFO ] 2024-01-23 14:34:02.945 [main] StoreLocatorFuncSteps - User should be redirected to the homepage
+[INFO ] 2024-01-23 14:35:06.341 [main] StoreLocatorFuncSteps - User navigates to the web URL
+[INFO ] 2024-01-23 14:35:09.930 [main] StoreLocatorFuncSteps - User must click on the login\/Register
+[INFO ] 2024-01-23 14:35:09.930 [main] StoreLocatorFuncSteps - User Enter the valid emailID
+[INFO ] 2024-01-23 14:35:09.931 [main] StoreLocatorFuncSteps - User clicks on the continue button
+[INFO ] 2024-01-23 14:35:11.940 [main] StoreLocatorFuncSteps - User Enter OTP
+[INFO ] 2024-01-23 14:35:11.942 [main] StoreLocatorFuncSteps - User Clicks on Submit button
+[INFO ] 2024-01-23 14:35:41.948 [main] StoreLocatorFuncSteps - User must be able to view the store result
+[INFO ] 2024-01-23 14:35:41.972 [main] StoreLocatorFuncSteps - User must be able to access HomePage
+[INFO ] 2024-01-23 14:35:41.982 [main] StoreLocatorFuncSteps - User must hover over the stores&preschool
+[INFO ] 2024-01-23 14:35:42.091 [main] StoreLocatorFuncSteps - User must click on the find stores from drop down
+[INFO ] 2024-01-23 14:35:42.258 [main] StoreLocatorFuncSteps - User switches focus to the new tab
+[INFO ] 2024-01-23 14:35:42.327 [main] StoreLocatorFuncSteps - User select the store Type,state and city
+[INFO ] 2024-01-23 14:36:00.134 [main] StoreLocatorFuncSteps - User click on the search button
+[INFO ] 2024-01-23 14:36:00.415 [main] StoreLocatorFuncSteps - User must be able to view the store result
+[INFO ] 2024-01-23 14:40:50.030 [main] loginStepDef - User navigates to the web URL
+[INFO ] 2024-01-23 14:40:58.350 [main] loginStepDef - User click on the Register
+[INFO ] 2024-01-23 14:40:58.351 [main] loginStepDef - User Enter the valid emailID
+[INFO ] 2024-01-23 14:40:58.353 [main] loginStepDef - User clicks on the continue button
+[INFO ] 2024-01-23 14:40:58.354 [main] loginStepDef - User Clicks on Submit button
+[INFO ] 2024-01-23 14:40:58.355 [main] loginStepDef - Validate login is successful
+[INFO ] 2024-01-23 14:40:58.356 [main] loginStepDef - User goto Search button
+[INFO ] 2024-01-23 14:41:08.706 [main] loginStepDef - User select the product
+[INFO ] 2024-01-23 14:41:11.292 [main] loginStepDef - go to the add to cart button
+[INFO ] 2024-01-23 14:41:14.278 [main] loginStepDef - go to the Go to cart button
+[INFO ] 2024-01-23 14:41:25.198 [main] loginStepDef - increase the Quality of the product
+[INFO ] 2024-01-23 14:41:59.547 [main] ShortlistFuncSteps - I am on the login page
+[INFO ] 2024-01-23 14:42:07.783 [main] ShortlistFuncSteps - I log in with valid credentials
+[INFO ] 2024-01-23 14:43:47.077 [main] ShortlistFuncSteps - I am on the login page
+[INFO ] 2024-01-23 14:43:54.291 [main] ShortlistFuncSteps - I log in with valid credentials
+[INFO ] 2024-01-23 14:44:33.116 [main] ShortlistFuncSteps - I shortlist a few products
+[INFO ] 2024-01-23 14:44:37.526 [main] ShortlistFuncSteps - I click on the Shortlist button
+[INFO ] 2024-01-23 14:44:52.291 [main] ShortlistFuncSteps - the selected products should be in my Shortlist
+[INFO ] 2024-01-23 15:07:04.820 [main] ShortlistFuncSteps - I am on the login page
+[INFO ] 2024-01-23 15:09:31.652 [main] StoreLocatorFuncSteps - User navigates to the web URL
+[INFO ] 2024-01-23 15:09:32.249 [main] StoreLocatorFuncSteps - User must click on the login\/Register
+[INFO ] 2024-01-23 15:09:32.252 [main] StoreLocatorFuncSteps - User Enter the valid emailID
+[INFO ] 2024-01-23 15:09:32.254 [main] StoreLocatorFuncSteps - User clicks on the continue button
+[INFO ] 2024-01-23 15:09:34.333 [main] StoreLocatorFuncSteps - User Enter OTP
+[INFO ] 2024-01-23 15:09:34.334 [main] StoreLocatorFuncSteps - User Clicks on Submit button
+[INFO ] 2024-01-23 15:44:00.825 [main] ShortlistFuncSteps - I am on the login page
+[INFO ] 2024-01-23 16:01:01.908 [main] StoreLocatorFuncSteps - User navigates to the web URL
+[INFO ] 2024-01-23 16:01:05.818 [main] StoreLocatorFuncSteps - User have valid credentials for login
+[INFO ] 2024-01-23 16:01:05.819 [main] StoreLocatorFuncSteps - User should be redirected to the homepage
+[INFO ] 2024-01-23 16:01:31.312 [main] StoreLocatorFuncSteps - User navigates to the web URL
+[INFO ] 2024-01-23 16:01:35.242 [main] StoreLocatorFuncSteps - User must click on the login\/Register
+[INFO ] 2024-01-23 16:01:35.243 [main] StoreLocatorFuncSteps - User Enter the valid emailID
+[INFO ] 2024-01-23 16:01:35.245 [main] StoreLocatorFuncSteps - User clicks on the continue button
+[INFO ] 2024-01-23 16:01:37.250 [main] StoreLocatorFuncSteps - User Enter OTP
+[INFO ] 2024-01-23 16:01:37.250 [main] StoreLocatorFuncSteps - User Clicks on Submit button
+[INFO ] 2024-01-23 16:02:07.263 [main] StoreLocatorFuncSteps - User must be able to view the store result
+[INFO ] 2024-01-23 16:02:07.275 [main] StoreLocatorFuncSteps - User must be able to access HomePage
+[INFO ] 2024-01-23 16:02:07.285 [main] StoreLocatorFuncSteps - User must hover over the stores&preschool
+[INFO ] 2024-01-23 16:02:07.399 [main] StoreLocatorFuncSteps - User must click on the find stores from drop down
+[INFO ] 2024-01-23 16:02:07.575 [main] StoreLocatorFuncSteps - User switches focus to the new tab
+[INFO ] 2024-01-23 16:02:07.793 [main] StoreLocatorFuncSteps - User select the store Type,state and city
+[INFO ] 2024-01-23 16:02:25.402 [main] StoreLocatorFuncSteps - User click on the search button
+[INFO ] 2024-01-23 16:02:26.113 [main] StoreLocatorFuncSteps - User must be able to view the store result
+[INFO ] 2024-01-23 16:03:23.570 [main] ShortlistFuncSteps - I am on the login page
+[INFO ] 2024-01-23 16:03:28.498 [main] ShortlistFuncSteps - I log in with valid credentials
+[INFO ] 2024-01-23 16:04:06.783 [main] ShortlistFuncSteps - I shortlist a few products
+[INFO ] 2024-01-23 16:04:10.758 [main] ShortlistFuncSteps - I click on the Shortlist button
+[INFO ] 2024-01-23 16:04:26.059 [main] ShortlistFuncSteps - the selected products should be in my Shortlist
+[INFO ] 2024-01-23 16:19:42.860 [main] StoreLocatorFuncSteps - User navigates to the web URL
+[INFO ] 2024-01-23 16:19:48.250 [main] StoreLocatorFuncSteps - User have valid credentials for login
+[INFO ] 2024-01-23 16:19:48.255 [main] StoreLocatorFuncSteps - User should be redirected to the homepage
+[INFO ] 2024-01-23 16:20:14.401 [main] StoreLocatorFuncSteps - User navigates to the web URL
+[INFO ] 2024-01-23 16:20:18.285 [main] StoreLocatorFuncSteps - User must click on the login\/Register
+[INFO ] 2024-01-23 16:20:18.287 [main] StoreLocatorFuncSteps - User Enter the valid emailID
+[INFO ] 2024-01-23 16:20:18.287 [main] StoreLocatorFuncSteps - User clicks on the continue button
+[INFO ] 2024-01-23 16:20:20.290 [main] StoreLocatorFuncSteps - User Enter OTP
+[INFO ] 2024-01-23 16:20:20.292 [main] StoreLocatorFuncSteps - User Clicks on Submit button
+[INFO ] 2024-01-23 16:20:50.295 [main] StoreLocatorFuncSteps - User must be able to view the store result
+[INFO ] 2024-01-23 16:20:50.310 [main] StoreLocatorFuncSteps - User must be able to access HomePage
+[INFO ] 2024-01-23 16:20:50.321 [main] StoreLocatorFuncSteps - User must hover over the stores&preschool
+[INFO ] 2024-01-23 16:20:50.426 [main] StoreLocatorFuncSteps - User must click on the find stores from drop down
+[INFO ] 2024-01-23 16:20:50.609 [main] StoreLocatorFuncSteps - User switches focus to the new tab
+[INFO ] 2024-01-23 16:20:50.847 [main] StoreLocatorFuncSteps - User select the store Type,state and city
+[INFO ] 2024-01-23 16:21:08.565 [main] StoreLocatorFuncSteps - User click on the search button
+[INFO ] 2024-01-23 16:21:08.851 [main] StoreLocatorFuncSteps - User must be able to view the store result
+[INFO ] 2024-01-23 16:22:07.950 [main] ShortlistFuncSteps - I am on the login page
+[INFO ] 2024-01-23 16:22:15.354 [main] ShortlistFuncSteps - I log in with valid credentials
+[INFO ] 2024-01-23 16:22:54.959 [main] ShortlistFuncSteps - I shortlist a few products
+[INFO ] 2024-01-23 16:22:59.108 [main] ShortlistFuncSteps - I click on the Shortlist button
+[INFO ] 2024-01-23 16:23:13.301 [main] ShortlistFuncSteps - the selected products should be in my Shortlist
+[INFO ] 2024-01-23 16:36:23.085 [main] StoreLocatorFuncSteps - User navigates to the web URL
+[INFO ] 2024-01-23 16:36:26.796 [main] StoreLocatorFuncSteps - User click on the Register
+[INFO ] 2024-01-23 16:36:26.797 [main] StoreLocatorFuncSteps - User Enter the valid emailID
+[INFO ] 2024-01-23 16:36:26.799 [main] StoreLocatorFuncSteps - User clicks on the continue button
+[INFO ] 2024-01-23 16:36:26.802 [main] StoreLocatorFuncSteps - User Clicks on Submit button
+[INFO ] 2024-01-23 16:36:26.803 [main] StoreLocatorFuncSteps - Validate login is successful
+[INFO ] 2024-01-23 16:36:26.804 [main] StoreLocatorFuncSteps - User goto Search button
+[INFO ] 2024-01-23 16:36:36.508 [main] StoreLocatorFuncSteps - User select the product
+[INFO ] 2024-01-23 16:36:39.109 [main] StoreLocatorFuncSteps - go to the add to cart button
+[INFO ] 2024-01-23 16:36:42.006 [main] StoreLocatorFuncSteps - go to the Go to cart button
+[INFO ] 2024-01-23 16:36:49.706 [main] StoreLocatorFuncSteps - increase the Quality of the product
+[INFO ] 2024-01-23 16:49:51.427 [main] StoreLocatorFuncSteps - User navigates to the web URL
+[INFO ] 2024-01-23 16:49:52.184 [main] StoreLocatorFuncSteps - User have valid credentials for login
+[INFO ] 2024-01-23 16:49:52.188 [main] StoreLocatorFuncSteps - User should be redirected to the homepage
+[INFO ] 2024-01-23 16:50:20.892 [main] StoreLocatorFuncSteps - User navigates to the web URL
+[INFO ] 2024-01-23 16:50:26.378 [main] StoreLocatorFuncSteps - User must click on the login\/Register
+[INFO ] 2024-01-23 16:50:26.379 [main] StoreLocatorFuncSteps - User Enter the valid emailID
+[INFO ] 2024-01-23 16:50:26.380 [main] StoreLocatorFuncSteps - User clicks on the continue button
+[INFO ] 2024-01-23 16:50:28.388 [main] StoreLocatorFuncSteps - User Enter OTP
+[INFO ] 2024-01-23 16:50:28.389 [main] StoreLocatorFuncSteps - User Clicks on Submit button
+[INFO ] 2024-01-23 16:50:58.397 [main] StoreLocatorFuncSteps - User must be able to view the store result
+[INFO ] 2024-01-23 16:50:58.412 [main] StoreLocatorFuncSteps - User must be able to access HomePage
+[INFO ] 2024-01-23 16:50:58.421 [main] StoreLocatorFuncSteps - User must hover over the stores&preschool
+[INFO ] 2024-01-23 16:50:58.529 [main] StoreLocatorFuncSteps - User must click on the find stores from drop down
+[INFO ] 2024-01-23 16:50:58.727 [main] StoreLocatorFuncSteps - User switches focus to the new tab
+[INFO ] 2024-01-23 16:50:58.973 [main] StoreLocatorFuncSteps - User select the store Type,state and city
+[INFO ] 2024-01-23 16:51:16.968 [main] StoreLocatorFuncSteps - User click on the search button
+[INFO ] 2024-01-23 16:51:17.217 [main] StoreLocatorFuncSteps - User must be able to view the store result
+[INFO ] 2024-01-23 16:52:18.985 [main] ShortlistFuncSteps - I am on the login page
+[INFO ] 2024-01-23 16:52:26.142 [main] ShortlistFuncSteps - I log in with valid credentials
+[INFO ] 2024-01-23 16:53:04.718 [main] ShortlistFuncSteps - I shortlist a few products
+[INFO ] 2024-01-23 16:53:08.695 [main] ShortlistFuncSteps - I click on the Shortlist button
+[INFO ] 2024-01-23 16:53:23.284 [main] ShortlistFuncSteps - the selected products should be in my Shortlist
+[INFO ] 2024-01-23 18:15:21.223 [main] StoreLocatorFuncSteps - User navigates to the web URL
+[INFO ] 2024-01-23 18:15:25.535 [main] StoreLocatorFuncSteps - User click on the Register
+[INFO ] 2024-01-23 18:15:25.536 [main] StoreLocatorFuncSteps - User Enter the valid emailID
+[INFO ] 2024-01-23 18:15:25.537 [main] StoreLocatorFuncSteps - User clicks on the continue button
+[INFO ] 2024-01-23 18:15:25.537 [main] StoreLocatorFuncSteps - User Clicks on Submit button
+[INFO ] 2024-01-23 18:15:25.541 [main] StoreLocatorFuncSteps - Validate login is successful
+[INFO ] 2024-01-23 18:15:25.541 [main] StoreLocatorFuncSteps - User goto Search button
+[INFO ] 2024-01-23 18:15:36.245 [main] StoreLocatorFuncSteps - User select the product
+[INFO ] 2024-01-23 18:15:38.729 [main] StoreLocatorFuncSteps - go to the add to cart button
+[INFO ] 2024-01-23 18:15:41.833 [main] StoreLocatorFuncSteps - go to the Go to cart button
+[INFO ] 2024-01-23 18:15:50.668 [main] StoreLocatorFuncSteps - increase the Quality of the product
+[INFO ] 2024-01-23 19:05:04.144 [main] StoreLocatorFuncSteps - User navigates to the web URL
+[INFO ] 2024-01-23 19:05:10.980 [main] StoreLocatorFuncSteps - User have valid credentials for login
+[INFO ] 2024-01-23 19:05:10.982 [main] StoreLocatorFuncSteps - User should be redirected to the homepage
+[INFO ] 2024-01-23 19:05:36.605 [main] StoreLocatorFuncSteps - User navigates to the web URL
+[INFO ] 2024-01-23 19:05:40.697 [main] StoreLocatorFuncSteps - User must click on the login\/Register
+[INFO ] 2024-01-23 19:05:40.698 [main] StoreLocatorFuncSteps - User Enter the valid emailID
+[INFO ] 2024-01-23 19:05:40.699 [main] StoreLocatorFuncSteps - User clicks on the continue button
+[INFO ] 2024-01-23 19:05:42.721 [main] StoreLocatorFuncSteps - User Enter OTP
+[INFO ] 2024-01-23 19:05:42.722 [main] StoreLocatorFuncSteps - User Clicks on Submit button
+[INFO ] 2024-01-23 19:06:12.730 [main] StoreLocatorFuncSteps - User must be able to view the store result
+[INFO ] 2024-01-23 19:06:12.756 [main] StoreLocatorFuncSteps - User must be able to access HomePage
+[INFO ] 2024-01-23 19:06:12.771 [main] StoreLocatorFuncSteps - User must hover over the stores&preschool
+[INFO ] 2024-01-23 19:06:12.896 [main] StoreLocatorFuncSteps - User must click on the find stores from drop down
+[INFO ] 2024-01-23 19:06:13.105 [main] StoreLocatorFuncSteps - User switches focus to the new tab
+[INFO ] 2024-01-23 19:06:13.314 [main] StoreLocatorFuncSteps - User select the store Type,state and city
+[INFO ] 2024-01-23 19:06:31.466 [main] StoreLocatorFuncSteps - User click on the search button
+[INFO ] 2024-01-23 19:06:31.742 [main] StoreLocatorFuncSteps - User must be able to view the store result
+[INFO ] 2024-01-23 19:07:31.045 [main] ShortlistFuncSteps - I am on the login page
+[INFO ] 2024-01-23 19:07:39.617 [main] ShortlistFuncSteps - I log in with valid credentials
+[INFO ] 2024-01-23 19:08:18.756 [main] ShortlistFuncSteps - I shortlist a few products
+[INFO ] 2024-01-23 19:08:24.157 [main] ShortlistFuncSteps - I click on the Shortlist button
+[INFO ] 2024-01-23 19:08:44.821 [main] ShortlistFuncSteps - the selected products should be in my Shortlist
+[INFO ] 2024-01-23 19:22:08.073 [main] StoreLocatorFuncSteps - User navigates to the web URL
+[INFO ] 2024-01-23 19:22:12.050 [main] StoreLocatorFuncSteps - User click on the Register
+[INFO ] 2024-01-23 19:22:12.051 [main] StoreLocatorFuncSteps - User Enter the valid emailID
+[INFO ] 2024-01-23 19:22:12.052 [main] StoreLocatorFuncSteps - User clicks on the continue button
+[INFO ] 2024-01-23 19:22:12.052 [main] StoreLocatorFuncSteps - User Clicks on Submit button
+[INFO ] 2024-01-23 19:22:12.053 [main] StoreLocatorFuncSteps - Validate login is successful
+[INFO ] 2024-01-23 19:22:12.054 [main] StoreLocatorFuncSteps - User goto Search button
+[INFO ] 2024-01-23 19:22:21.965 [main] StoreLocatorFuncSteps - User select the product
+[INFO ] 2024-01-23 19:22:24.530 [main] StoreLocatorFuncSteps - go to the add to cart button
+[INFO ] 2024-01-23 19:22:27.267 [main] StoreLocatorFuncSteps - go to the Go to cart button
+[INFO ] 2024-01-23 19:22:35.772 [main] StoreLocatorFuncSteps - increase the Quality of the product
+[INFO ] 2024-01-23 19:28:55.507 [main] StoreLocatorFuncSteps - User navigates to the web URL
+[INFO ] 2024-01-23 19:29:00.756 [main] StoreLocatorFuncSteps - User have valid credentials for login
+[INFO ] 2024-01-23 19:29:00.758 [main] StoreLocatorFuncSteps - User should be redirected to the homepage
+[INFO ] 2024-01-23 19:29:28.025 [main] StoreLocatorFuncSteps - User navigates to the web URL
+[INFO ] 2024-01-23 19:29:38.783 [main] StoreLocatorFuncSteps - User must click on the login\/Register
+[INFO ] 2024-01-23 19:29:38.784 [main] StoreLocatorFuncSteps - User Enter the valid emailID
+[INFO ] 2024-01-23 19:29:38.785 [main] StoreLocatorFuncSteps - User clicks on the continue button
+[INFO ] 2024-01-23 19:29:40.799 [main] StoreLocatorFuncSteps - User Enter OTP
+[INFO ] 2024-01-23 19:29:40.801 [main] StoreLocatorFuncSteps - User Clicks on Submit button
+[INFO ] 2024-01-23 19:30:10.814 [main] StoreLocatorFuncSteps - User must be able to view the store result
+[INFO ] 2024-01-23 19:30:10.843 [main] StoreLocatorFuncSteps - User must be able to access HomePage
+[INFO ] 2024-01-23 19:30:10.860 [main] StoreLocatorFuncSteps - User must hover over the stores&preschool
+[INFO ] 2024-01-23 19:30:10.994 [main] StoreLocatorFuncSteps - User must click on the find stores from drop down
+[INFO ] 2024-01-23 19:30:11.202 [main] StoreLocatorFuncSteps - User switches focus to the new tab
+[INFO ] 2024-01-23 19:30:11.467 [main] StoreLocatorFuncSteps - User select the store Type,state and city
+[INFO ] 2024-01-23 19:30:29.408 [main] StoreLocatorFuncSteps - User click on the search button
+[INFO ] 2024-01-23 19:30:29.734 [main] StoreLocatorFuncSteps - User must be able to view the store result
+[INFO ] 2024-01-23 19:31:29.824 [main] ShortlistFuncSteps - I am on the login page
+[INFO ] 2024-01-23 19:31:43.648 [main] ShortlistFuncSteps - I log in with valid credentials
+[INFO ] 2024-01-23 19:32:22.353 [main] ShortlistFuncSteps - I shortlist a few products
+[INFO ] 2024-01-23 19:32:27.162 [main] ShortlistFuncSteps - I click on the Shortlist button
+[INFO ] 2024-01-23 19:32:41.733 [main] ShortlistFuncSteps - the selected products should be in my Shortlist
+[INFO ] 2024-01-23 19:43:51.462 [main] StoreLocatorFuncSteps - User navigates to the web URL
+[INFO ] 2024-01-23 19:43:56.186 [main] StoreLocatorFuncSteps - User have valid credentials for login
+[INFO ] 2024-01-23 19:43:56.192 [main] StoreLocatorFuncSteps - User should be redirected to the homepage
+[INFO ] 2024-01-23 19:44:28.544 [main] StoreLocatorFuncSteps - User navigates to the web URL
+[INFO ] 2024-01-23 19:44:32.713 [main] StoreLocatorFuncSteps - User must click on the login\/Register
+[INFO ] 2024-01-23 19:44:32.719 [main] StoreLocatorFuncSteps - User Enter the valid emailID
+[INFO ] 2024-01-23 19:44:32.720 [main] StoreLocatorFuncSteps - User clicks on the continue button
+[INFO ] 2024-01-23 19:44:34.731 [main] StoreLocatorFuncSteps - User Enter OTP
+[INFO ] 2024-01-23 19:44:34.736 [main] StoreLocatorFuncSteps - User Clicks on Submit button
+[INFO ] 2024-01-23 19:45:04.743 [main] StoreLocatorFuncSteps - User must be able to view the store result
+[INFO ] 2024-01-23 19:45:04.780 [main] StoreLocatorFuncSteps - User must be able to access HomePage
+[INFO ] 2024-01-23 19:45:04.822 [main] StoreLocatorFuncSteps - User must hover over the stores&preschool
+[INFO ] 2024-01-23 19:45:05.135 [main] StoreLocatorFuncSteps - User must click on the find stores from drop down
+[INFO ] 2024-01-23 19:45:05.404 [main] StoreLocatorFuncSteps - User switches focus to the new tab
+[INFO ] 2024-01-23 19:45:05.794 [main] StoreLocatorFuncSteps - User select the store Type,state and city
+[INFO ] 2024-01-23 19:45:25.457 [main] StoreLocatorFuncSteps - User click on the search button
+[INFO ] 2024-01-23 19:45:25.759 [main] StoreLocatorFuncSteps - User must be able to view the store result
+[INFO ] 2024-01-23 19:46:25.380 [main] ShortlistFuncSteps - I am on the login page
+[INFO ] 2024-01-23 19:46:34.204 [main] ShortlistFuncSteps - I log in with valid credentials
+[INFO ] 2024-01-23 19:47:18.747 [main] ShortlistFuncSteps - I shortlist a few products
+[INFO ] 2024-01-23 19:47:23.372 [main] ShortlistFuncSteps - I click on the Shortlist button
+[INFO ] 2024-01-23 19:47:37.641 [main] ShortlistFuncSteps - the selected products should be in my Shortlist
+[INFO ] 2024-01-23 20:04:17.474 [main] StoreLocatorFuncSteps - User navigates to the web URL
+[INFO ] 2024-01-23 20:04:25.290 [main] StoreLocatorFuncSteps - User have valid credentials for login
+[INFO ] 2024-01-23 20:04:25.293 [main] StoreLocatorFuncSteps - User should be redirected to the homepage
+[INFO ] 2024-01-23 20:04:50.248 [main] StoreLocatorFuncSteps - User navigates to the web URL
+[INFO ] 2024-01-23 20:04:50.632 [main] StoreLocatorFuncSteps - User must click on the login\/Register
+[INFO ] 2024-01-23 20:04:50.633 [main] StoreLocatorFuncSteps - User Enter the valid emailID
+[INFO ] 2024-01-23 20:04:50.636 [main] StoreLocatorFuncSteps - User clicks on the continue button
+[INFO ] 2024-01-23 20:04:52.646 [main] StoreLocatorFuncSteps - User Enter OTP
+[INFO ] 2024-01-23 20:04:52.648 [main] StoreLocatorFuncSteps - User Clicks on Submit button
+[INFO ] 2024-01-23 20:05:22.666 [main] StoreLocatorFuncSteps - User must be able to view the store result
+[INFO ] 2024-01-23 20:05:22.683 [main] StoreLocatorFuncSteps - User must be able to access HomePage
+[INFO ] 2024-01-23 20:05:22.691 [main] StoreLocatorFuncSteps - User must hover over the stores&preschool
+[INFO ] 2024-01-23 20:05:22.814 [main] StoreLocatorFuncSteps - User must click on the find stores from drop down
+[INFO ] 2024-01-23 20:05:23.010 [main] StoreLocatorFuncSteps - User switches focus to the new tab
+[INFO ] 2024-01-23 20:05:23.058 [main] StoreLocatorFuncSteps - User select the store Type,state and city
+[INFO ] 2024-01-23 20:05:41.198 [main] StoreLocatorFuncSteps - User click on the search button
+[INFO ] 2024-01-23 20:05:41.458 [main] StoreLocatorFuncSteps - User must be able to view the store result
+[INFO ] 2024-01-23 20:06:41.071 [main] ShortlistFuncSteps - I am on the login page
+[INFO ] 2024-01-23 20:06:47.693 [main] ShortlistFuncSteps - I log in with valid credentials
+[INFO ] 2024-01-23 20:07:26.040 [main] ShortlistFuncSteps - I shortlist a few products
+[INFO ] 2024-01-23 20:07:29.724 [main] ShortlistFuncSteps - I click on the Shortlist button
+[INFO ] 2024-01-23 20:07:43.979 [main] ShortlistFuncSteps - the selected products should be in my Shortlist
+[INFO ] 2024-01-23 20:24:02.432 [main] StoreLocatorFuncSteps - User navigates to the web URL
+[INFO ] 2024-01-23 20:24:03.203 [main] StoreLocatorFuncSteps - User have valid credentials for login
+[INFO ] 2024-01-23 20:24:03.207 [main] StoreLocatorFuncSteps - User should be redirected to the homepage
+[INFO ] 2024-01-23 20:24:37.112 [main] StoreLocatorFuncSteps - User navigates to the web URL
+[INFO ] 2024-01-23 20:24:41.609 [main] StoreLocatorFuncSteps - User must click on the login\/Register
+[INFO ] 2024-01-23 20:24:41.610 [main] StoreLocatorFuncSteps - User Enter the valid emailID
+[INFO ] 2024-01-23 20:24:41.611 [main] StoreLocatorFuncSteps - User clicks on the continue button
+[INFO ] 2024-01-23 20:24:43.624 [main] StoreLocatorFuncSteps - User Enter OTP
+[INFO ] 2024-01-23 20:24:43.626 [main] StoreLocatorFuncSteps - User Clicks on Submit button
+[INFO ] 2024-01-23 20:25:13.638 [main] StoreLocatorFuncSteps - User must be able to view the store result
+[INFO ] 2024-01-23 20:25:13.651 [main] StoreLocatorFuncSteps - User must be able to access HomePage
+[INFO ] 2024-01-23 20:25:13.663 [main] StoreLocatorFuncSteps - User must hover over the stores&preschool
+[INFO ] 2024-01-23 20:25:13.802 [main] StoreLocatorFuncSteps - User must click on the find stores from drop down
+[INFO ] 2024-01-23 20:25:13.984 [main] StoreLocatorFuncSteps - User switches focus to the new tab
+[INFO ] 2024-01-23 20:25:14.257 [main] StoreLocatorFuncSteps - User select the store Type,state and city
+[INFO ] 2024-01-23 20:25:32.577 [main] StoreLocatorFuncSteps - User click on the search button
+[INFO ] 2024-01-23 20:25:32.875 [main] StoreLocatorFuncSteps - User must be able to view the store result
+[INFO ] 2024-01-23 20:26:33.349 [main] ShortlistFuncSteps - I am on the login page
+[INFO ] 2024-01-23 20:26:39.997 [main] ShortlistFuncSteps - I log in with valid credentials
+[INFO ] 2024-01-23 20:27:16.316 [main] ShortlistFuncSteps - I shortlist a few products
+[INFO ] 2024-01-23 20:42:52.646 [main] StoreLocatorFuncSteps - User navigates to the web URL
+[INFO ] 2024-01-23 20:42:57.297 [main] StoreLocatorFuncSteps - User have valid credentials for login
+[INFO ] 2024-01-23 20:42:57.302 [main] StoreLocatorFuncSteps - User should be redirected to the homepage
+[INFO ] 2024-01-23 20:43:25.294 [main] StoreLocatorFuncSteps - User navigates to the web URL
+[INFO ] 2024-01-23 20:43:35.346 [main] StoreLocatorFuncSteps - User must click on the login\/Register
+[INFO ] 2024-01-23 20:43:35.347 [main] StoreLocatorFuncSteps - User Enter the valid emailID
+[INFO ] 2024-01-23 20:43:35.348 [main] StoreLocatorFuncSteps - User clicks on the continue button
+[INFO ] 2024-01-23 20:43:37.357 [main] StoreLocatorFuncSteps - User Enter OTP
+[INFO ] 2024-01-23 20:43:37.361 [main] StoreLocatorFuncSteps - User Clicks on Submit button
+[INFO ] 2024-01-23 20:44:07.367 [main] StoreLocatorFuncSteps - User must be able to view the store result
+[INFO ] 2024-01-23 20:44:07.383 [main] StoreLocatorFuncSteps - User must be able to access HomePage
+[INFO ] 2024-01-23 20:44:07.393 [main] StoreLocatorFuncSteps - User must hover over the stores&preschool
+[INFO ] 2024-01-23 20:44:07.519 [main] StoreLocatorFuncSteps - User must click on the find stores from drop down
+[INFO ] 2024-01-23 20:44:07.705 [main] StoreLocatorFuncSteps - User switches focus to the new tab
+[INFO ] 2024-01-23 20:44:07.989 [main] StoreLocatorFuncSteps - User select the store Type,state and city
+[INFO ] 2024-01-23 20:44:25.633 [main] StoreLocatorFuncSteps - User click on the search button
+[INFO ] 2024-01-23 20:44:25.907 [main] StoreLocatorFuncSteps - User must be able to view the store result
+[INFO ] 2024-01-23 20:45:25.088 [main] loginStepDef - User navigates to the web URL in firstcry
+[INFO ] 2024-01-23 20:45:28.781 [main] loginStepDef - User click on the Register
+[INFO ] 2024-01-23 20:45:28.782 [main] loginStepDef - User Enter the valid emailID
+[INFO ] 2024-01-23 20:45:28.783 [main] loginStepDef - User clicks on the continue button
+[INFO ] 2024-01-23 20:45:28.784 [main] loginStepDef - User Clicks on Submit button
+[INFO ] 2024-01-23 20:45:28.785 [main] loginStepDef - Validate login is successful
+[INFO ] 2024-01-23 20:45:28.787 [main] loginStepDef - User goto Search button
+[INFO ] 2024-01-23 20:45:39.926 [main] loginStepDef - User select the product
+[INFO ] 2024-01-23 20:45:42.495 [main] loginStepDef - go to the add to cart button
+[INFO ] 2024-01-23 20:45:45.277 [main] loginStepDef - go to the Go to cart button
+[INFO ] 2024-01-23 20:45:53.681 [main] loginStepDef - increase the Quality of the product
+[INFO ] 2024-01-23 20:45:56.678 [main] ShortlistFuncSteps - I am on the login page
+[INFO ] 2024-01-23 20:46:02.360 [main] ShortlistFuncSteps - I log in with valid credentials
+[INFO ] 2024-01-23 20:46:40.698 [main] ShortlistFuncSteps - I shortlist a few products
+[INFO ] 2024-01-23 20:46:45.382 [main] ShortlistFuncSteps - I click on the Shortlist button
+[INFO ] 2024-01-23 20:46:59.912 [main] ShortlistFuncSteps - the selected products should be in my Shortlist
+[INFO ] 2024-01-23 22:33:45.888 [main] StoreLocatorFuncSteps - User navigates to the web URL
+[INFO ] 2024-01-23 22:33:49.423 [main] StoreLocatorFuncSteps - User must click on the login\/Register
+[INFO ] 2024-01-23 22:33:49.424 [main] StoreLocatorFuncSteps - User Enter the valid emailID
+[INFO ] 2024-01-23 22:33:49.426 [main] StoreLocatorFuncSteps - User clicks on the continue button
+[INFO ] 2024-01-23 22:33:51.430 [main] StoreLocatorFuncSteps - User Enter OTP
+[INFO ] 2024-01-23 22:33:51.431 [main] StoreLocatorFuncSteps - User Clicks on Submit button
+[INFO ] 2024-01-23 22:34:21.433 [main] StoreLocatorFuncSteps - User must be able to view the store result
+[INFO ] 2024-01-23 22:34:21.472 [main] StoreLocatorFuncSteps - User must be able to access HomePage
+[INFO ] 2024-01-23 22:34:21.488 [main] StoreLocatorFuncSteps - User must hover over the stores&preschool
+[INFO ] 2024-01-23 22:34:21.746 [main] StoreLocatorFuncSteps - User must click on the find stores from drop down
+[INFO ] 2024-01-23 22:34:21.960 [main] StoreLocatorFuncSteps - User switches focus to the new tab
+[INFO ] 2024-01-23 22:34:22.150 [main] StoreLocatorFuncSteps - User select the store Type,state and city
+[INFO ] 2024-01-23 22:34:39.943 [main] StoreLocatorFuncSteps - User click on the search button
+[INFO ] 2024-01-23 22:34:40.247 [main] StoreLocatorFuncSteps - User must be able to view the store result
+[INFO ] 2024-01-24 01:23:19.606 [main] StoreLocatorFuncSteps - User navigates to the web URL
+[INFO ] 2024-01-24 01:23:23.746 [main] StoreLocatorFuncSteps - User have valid credentials for login
+[INFO ] 2024-01-24 01:23:23.749 [main] StoreLocatorFuncSteps - User should be redirected to the homepage
+[INFO ] 2024-01-24 01:23:51.159 [main] StoreLocatorFuncSteps - User navigates to the web URL
+[INFO ] 2024-01-24 01:23:55.358 [main] StoreLocatorFuncSteps - User must click on the login\/Register
+[INFO ] 2024-01-24 01:23:55.358 [main] StoreLocatorFuncSteps - User Enter the valid emailID
+[INFO ] 2024-01-24 01:23:55.359 [main] StoreLocatorFuncSteps - User clicks on the continue button
+[INFO ] 2024-01-24 01:23:57.372 [main] StoreLocatorFuncSteps - User Enter OTP
+[INFO ] 2024-01-24 01:23:57.373 [main] StoreLocatorFuncSteps - User Clicks on Submit button
+[INFO ] 2024-01-24 01:24:27.381 [main] StoreLocatorFuncSteps - User must be able to view the store result
+[INFO ] 2024-01-24 01:24:27.410 [main] StoreLocatorFuncSteps - User must be able to access HomePage
+[INFO ] 2024-01-24 01:24:27.431 [main] StoreLocatorFuncSteps - User must hover over the stores&preschool
+[INFO ] 2024-01-24 01:24:27.565 [main] StoreLocatorFuncSteps - User must click on the find stores from drop down
+[INFO ] 2024-01-24 01:24:27.768 [main] StoreLocatorFuncSteps - User switches focus to the new tab
+[INFO ] 2024-01-24 01:24:27.971 [main] StoreLocatorFuncSteps - User select the store Type,state and city
+[INFO ] 2024-01-24 01:24:46.085 [main] StoreLocatorFuncSteps - User click on the search button
+[INFO ] 2024-01-24 01:24:46.382 [main] StoreLocatorFuncSteps - User must be able to view the store result
+[INFO ] 2024-01-24 01:25:45.858 [main] loginStepDef - User navigates to the web URL in firstcry
+[INFO ] 2024-01-24 01:25:49.718 [main] loginStepDef - User click on the Register
+[INFO ] 2024-01-24 01:25:49.722 [main] loginStepDef - User Enter the valid emailID
+[INFO ] 2024-01-24 01:25:49.723 [main] loginStepDef - User clicks on the continue button
+[INFO ] 2024-01-24 01:25:49.724 [main] loginStepDef - User Clicks on Submit button
+[INFO ] 2024-01-24 01:25:49.725 [main] loginStepDef - Validate login is successful
+[INFO ] 2024-01-24 01:25:49.727 [main] loginStepDef - User goto Search button
+[INFO ] 2024-01-24 01:26:00.616 [main] loginStepDef - User select the product
+[INFO ] 2024-01-24 01:26:03.211 [main] loginStepDef - go to the add to cart button
+[INFO ] 2024-01-24 01:26:06.524 [main] loginStepDef - go to the Go to cart button
+[INFO ] 2024-01-24 01:26:14.309 [main] loginStepDef - increase the Quality of the product
+[INFO ] 2024-01-24 01:26:17.412 [main] ShortlistFuncSteps - I am on the login page
+[INFO ] 2024-01-24 01:26:22.826 [main] ShortlistFuncSteps - I log in with valid credentials
+[INFO ] 2024-01-24 01:27:01.770 [main] ShortlistFuncSteps - I shortlist a few products
+[INFO ] 2024-01-24 01:27:06.004 [main] ShortlistFuncSteps - I click on the Shortlist button
+[INFO ] 2024-01-24 01:27:20.585 [main] ShortlistFuncSteps - the selected products should be in my Shortlist
+[INFO ] 2024-01-24 01:58:35.566 [main] StoreLocatorFuncSteps - User navigates to the web URL
+[INFO ] 2024-01-24 01:58:41.069 [main] StoreLocatorFuncSteps - User have valid credentials for login
+[INFO ] 2024-01-24 01:58:41.070 [main] StoreLocatorFuncSteps - User should be redirected to the homepage
+[INFO ] 2024-01-24 01:59:07.962 [main] StoreLocatorFuncSteps - User navigates to the web URL
+[INFO ] 2024-01-24 01:59:12.906 [main] StoreLocatorFuncSteps - User must click on the login\/Register
+[INFO ] 2024-01-24 01:59:12.907 [main] StoreLocatorFuncSteps - User Enter the valid emailID
+[INFO ] 2024-01-24 01:59:12.909 [main] StoreLocatorFuncSteps - User clicks on the continue button
+[INFO ] 2024-01-24 01:59:14.925 [main] StoreLocatorFuncSteps - User Enter OTP
+[INFO ] 2024-01-24 01:59:14.927 [main] StoreLocatorFuncSteps - User Clicks on Submit button
+[INFO ] 2024-01-24 01:59:44.937 [main] StoreLocatorFuncSteps - User must be able to view the store result
+[INFO ] 2024-01-24 01:59:44.956 [main] StoreLocatorFuncSteps - User must be able to access HomePage
+[INFO ] 2024-01-24 01:59:44.972 [main] StoreLocatorFuncSteps - User must hover over the stores&preschool
+[INFO ] 2024-01-24 01:59:45.101 [main] StoreLocatorFuncSteps - User must click on the find stores from drop down
+[INFO ] 2024-01-24 01:59:45.301 [main] StoreLocatorFuncSteps - User switches focus to the new tab
+[INFO ] 2024-01-24 01:59:45.559 [main] StoreLocatorFuncSteps - User select the store Type,state and city
+[INFO ] 2024-01-24 02:00:03.593 [main] StoreLocatorFuncSteps - User click on the search button
+[INFO ] 2024-01-24 02:00:03.927 [main] StoreLocatorFuncSteps - User must be able to view the store result
+[INFO ] 2024-01-24 02:01:09.287 [main] loginStepDef - User navigates to the web URL in firstcry
+[INFO ] 2024-01-24 02:01:13.295 [main] loginStepDef - User click on the Register
+[INFO ] 2024-01-24 02:01:13.299 [main] loginStepDef - User Enter the valid emailID
+[INFO ] 2024-01-24 02:01:13.300 [main] loginStepDef - User clicks on the continue button
+[INFO ] 2024-01-24 02:01:13.301 [main] loginStepDef - User Clicks on Submit button
+[INFO ] 2024-01-24 02:01:13.303 [main] loginStepDef - Validate login is successful
+[INFO ] 2024-01-24 02:01:13.305 [main] loginStepDef - User goto Search button
+[INFO ] 2024-01-24 02:01:23.557 [main] loginStepDef - User select the product
+[INFO ] 2024-01-24 02:01:26.249 [main] loginStepDef - go to the add to cart button
+[INFO ] 2024-01-24 02:01:29.499 [main] loginStepDef - go to the Go to cart button
+[INFO ] 2024-01-24 02:01:38.076 [main] loginStepDef - increase the Quality of the product
+[INFO ] 2024-01-24 02:01:41.251 [main] ShortlistFuncSteps - I am on the login page
+[INFO ] 2024-01-24 02:01:48.115 [main] ShortlistFuncSteps - I log in with valid credentials
+[INFO ] 2024-01-24 02:02:27.606 [main] ShortlistFuncSteps - I shortlist a few products
+[INFO ] 2024-01-24 02:02:31.845 [main] ShortlistFuncSteps - I click on the Shortlist button
+[INFO ] 2024-01-24 02:02:46.518 [main] ShortlistFuncSteps - the selected products should be in my Shortlist

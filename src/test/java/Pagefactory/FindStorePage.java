@@ -10,13 +10,13 @@ public class FindStorePage {
 	
 	WebDriver driver;
 	
-	@FindBy(xpath="/html/body/div[1]/div[5]/div/div[3]/ul/li[7]/span[1]")
+	@FindBy(xpath="//span[@class='anch poplogin_main poplogin R12_61']")
     WebElement Loginicon;
 
-	@FindBy(xpath="/html/body/div[1]/div[5]/div/div[3]/ul/li[2]/span/span")
+	@FindBy(xpath="//span[text()='Stores & Preschools']")
     WebElement storespreschool;
 	
-	@FindBy(xpath="/html/body/div[1]/div[5]/div/div[3]/ul/li[2]/ul/li[1]/a/span")
+	@FindBy(xpath="//span[text()='Find Stores']")
 	WebElement findstores;
 	
 	@FindBy(xpath="//option[@value='FirstCry']")
